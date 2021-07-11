@@ -8,10 +8,10 @@ body{
 }
 .container{
 
-	position: relative;
+	position: absolute;
 	width: 416px;
 	height: 629px;
-
+	top: -1px;
 	background: #FFFFFF;
 	box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.08);
 	border-radius: 18px;
